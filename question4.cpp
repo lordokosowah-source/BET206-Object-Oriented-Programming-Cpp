@@ -12,6 +12,6 @@ int main() {
        cout << "Hello!";
     else
        cout << "Goodbye!";
-       
+        
     return 0;
 }
