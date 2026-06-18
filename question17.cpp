@@ -12,5 +12,5 @@ int main() {
     else
         cout << "Not a power of 2";
 
-    return 0;
+    return 0; 
 }
