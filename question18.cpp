@@ -6,7 +6,7 @@ int main() {
     long long binary;
     int decimal = 0, i = 0, rem;
 
-    cout << "Enter a binary number: ";
+    cout << "Enter a binary number: "; 
     cin >> binary;
 
     while (binary != 0) {
