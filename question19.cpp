@@ -15,6 +15,6 @@ int main() {
     cout << "Decimal = " << decimal << endl;
     cout << "Hexadecimal = " << hex << decimal << endl;
     cout << "Octal = " << oct << decimal << endl;
-
+ 
     return 0;
 }
